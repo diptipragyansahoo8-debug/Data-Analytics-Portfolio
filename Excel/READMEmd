@@ -1,0 +1,146 @@
+# 📊 Excel Data Analysis Project
+
+## 📌 Overview
+
+This repository contains my **Microsoft Excel data analysis projects**, created as part of my journey toward becoming a **Data Analyst**.
+
+The projects focus on using Excel to **clean, organize, analyze, and visualize data** and present meaningful insights through reports and dashboards.
+
+---
+
+## 🛠️ Tools & Features Used
+
+* Microsoft Excel
+* Data Cleaning
+* Data Formatting
+* Excel Formulas & Functions
+* IF / IFS
+* SUM / SUMIF / SUMIFS
+* COUNT / COUNTIF / COUNTIFS
+* AVERAGE / AVERAGEIF
+* VLOOKUP / XLOOKUP
+* INDEX & MATCH
+* Sorting & Filtering
+* Conditional Formatting
+* Pivot Tables
+* Pivot Charts
+* Excel Charts
+* Data Validation
+* Interactive Dashboards
+
+---
+
+## 📈 Project Objectives
+
+The main objectives of these projects are to:
+
+* Clean and prepare raw datasets
+* Identify important patterns and trends
+* Calculate useful business metrics
+* Summarize large datasets using Pivot Tables
+* Create meaningful charts and visualizations
+* Build interactive Excel dashboards
+* Generate insights that can support decision-making
+
+---
+
+## 🔍 Data Analysis Process
+
+### 1️⃣ Data Collection
+
+Import or organize the raw dataset in Excel.
+
+### 2️⃣ Data Cleaning
+
+* Remove duplicate records
+* Handle missing values
+* Correct formatting issues
+* Standardize text and dates
+* Check for incorrect or inconsistent data
+
+### 3️⃣ Data Analysis
+
+Use Excel formulas, functions, Pivot Tables, and other analytical techniques to explore the dataset.
+
+### 4️⃣ Data Visualization
+
+Create charts and graphs to identify trends, comparisons, and patterns.
+
+### 5️⃣ Dashboard Creation
+
+Combine important KPIs, charts, tables, and filters into an interactive dashboard.
+
+### 6️⃣ Insights
+
+Analyze the results and identify key findings from the data.
+
+---
+
+## 📊 Dashboard
+
+The Excel dashboards in this repository may include:
+
+* 📌 Key Performance Indicators (KPIs)
+* 📈 Trend Analysis
+* 📊 Category Comparisons
+* 📅 Time-Based Analysis
+* 🔎 Interactive Filters
+* 📋 Summary Tables
+* 📉 Charts & Visualizations
+
+---
+
+## 💡 Key Skills Demonstrated
+
+Through these projects, I am developing practical skills in:
+
+**Data Cleaning → Data Analysis → Data Visualization → Dashboard Development → Insight Generation**
+
+---
+
+## 📁 Repository Structure
+
+```text
+Excel-Projects/
+│
+├── Dataset/
+│   └── dataset.xlsx
+│
+├── Analysis/
+│   └── analysis.xlsx
+│
+├── Dashboard/
+│   └── dashboard.xlsx
+│
+└── README.md
+```
+
+---
+
+## 🎯 Learning Goal
+
+I am currently learning **Data Analytics** and using Excel to build a strong foundation in data cleaning, analysis, visualization, and reporting.
+
+My next steps include applying these skills to **SQL, Power BI, Tableau, and Python**.
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **B.Sc. Botany (Hons.) graduate** currently transitioning into the field of **Data Analytics**.
+
+I'm learning:
+
+* 📗 Excel
+* 📊 Power BI
+* 📈 Tableau
+* 🗄️ SQL
+* 🐍 Python
+
+My goal is to become a **Data Analyst** and turn raw data into meaningful insights.
+
+---
+
+⭐ **If you find this project useful, feel free to explore the repository and follow my learning journey!**
+
+### 🌱 Learning Data. Building Skills. Creating Insights. 📊
